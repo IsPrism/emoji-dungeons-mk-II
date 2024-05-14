@@ -1,2 +1,2 @@
-# emoji-dungeons-mk-II
+# Emoji Dungeons Mk II
 Turn-based rpg using emojis
